@@ -3,7 +3,7 @@ const textConfig = {
   text2: "Anh có điều này muốn hỏi em, nhớ phải trả lời thật lòng nhaaa.",
   text3: "Em sẽ chấp nhận anh chứ?❤️ ._.",
   text4: "Nếu em ko trả lời mà thoát ra tức là em sẽ chấp nhận anh đó nha:333",
-  text5: "không chấp nhận",
+  text5: "không chấp nhận:)",
   text6: "chấp nhận <:333",
   text7: "Thật chứ",
   text8: "Gửi cho anh:>",
