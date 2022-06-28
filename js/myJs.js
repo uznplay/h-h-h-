@@ -8,7 +8,7 @@ const textConfig = {
   text7: "Thật chứ",
   text8: "Gửi cho anh:>",
   text9: "thật <:3",
-  text10: "Cảm ơn vì em đã chấp nhận anh,anh sẽ cố gắng hết sức để ythw em nhiều nhất trong khả năng anh có thể làm để cho em thấy ấm áp nhất có thể🫶🏻 ",
+  text10: "Cảm ơn vì em đã chấp nhận anh,anh sẽ cố gắng hết sức để ythw em nhiều nhất trong khả năng và để cho em thấy anh không phải là lựa chọn sai lầm của em 😊🫶🏻 ",
   text11:
     "anh hứa đó<:33",
   text12: "Wu Ai Ni 🫶🏻❤️",
