@@ -1,17 +1,17 @@
 const textConfig = {
-  text1: "Hi em!",
+  text1: "Nè, mình quen nhau được 30 ngày rồi đó😗, có zậy mà em cũng không nhớ ",
   text2: "Anh có điều này muốn hỏi em, nhớ phải trả lời thật lòng nhaaa.",
-  text3: "Em sẽ chấp nhận anh chứ?❤️ ._.",
+  text3: "Em sẽ chấp nhận tình cảm của anh chứ❤️🤧 ._.",
   text4: "Nếu em ko trả lời mà thoát ra tức là em sẽ chấp nhận anh đó nha:333",
   text5: "không chấp nhận:)",
   text6: "chấp nhận <:333",
   text7: "Thật chứ",
   text8: "Gửi cho anh:>",
   text9: "thật <:3",
-  text10: "Anh cảm ơn vì đã lựa chọn anh,anh sẽ cố gắng bù đắp tình cảm cho em nhiều nhất có thể dù mình không ở gần nhau<3",
+  text10: "Cảm ơn vì em đã chấp nhận anh,anh sẽ cố gắng hết sức để ythw em nhiều nhất trong khả năng anh có thể làm để cho em thấy ấm áp nhất có thể🫶🏻 ",
   text11:
     "anh hứa đó<:33",
-  text12: "I LOVE YOU <:33",
+  text12: "Wu Ai Ni 🫶🏻❤️",
 };
 
 $(document).ready(function () {
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/profile.php?id=100075254451021";
+            window.location = "https://www.facebook.com/duongg.anh.773";
           },
         });
       }
