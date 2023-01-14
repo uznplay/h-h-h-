@@ -1,5 +1,5 @@
 const textConfig = {
-  text1: "Nè, mình quen nhau được 30 ngày rồi đó😗, có zậy mà em cũng không nhớ ",
+  text1: "humnmmnnnn ",
   text2: "Anh có điều này muốn hỏi em, nhớ phải trả lời thật lòng nhaaa.",
   text3: "Em sẽ chấp nhận tình cảm của anh chứ❤️🤧 ._.",
   text4: "Nếu em ko trả lời mà thoát ra tức là em sẽ chấp nhận anh đó nha:333",
