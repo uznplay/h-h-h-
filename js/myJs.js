@@ -139,7 +139,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/duongg.anh.773";
+            window.location = "https://www.facebook.com/HoangThaoQuyen08?mibextid=ZbWKwL";
           },
         });
       }
