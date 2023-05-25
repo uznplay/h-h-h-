@@ -2,8 +2,8 @@ const textConfig = {
   text1: "humnmmnnnn ",
   text2: "Anh có điều này muốn hỏi em, nhớ phải trả lời thật lòng nhaaa.",
   text3: "Em sẽ chấp nhận tình cảm của anh chứ❤️🤧 ._.",
-  text4: "Đáng nhẽ ra cái này anh phải nói từ lúc em còn ở trên này nhưng anh lại để tuột mất cơ hội ấy 😔.Nếu như mà lần này em có không đồng ý, thì anh vẫn sẽ đợi chờ đến khi nào anh gặp lại em , anh sẽ trực tiếp ngỏ lời ☺️
-",
+  text4: "Đáng nhẽ ra cái này anh phải nói từ lúc em còn ở trên này nhưng anh lại để tuột mất cơ hội ấy 😔.Nếu như mà lần này em có không đồng ý, thì anh vẫn sẽ đợi chờ đến khi nào anh gặp lại em , anh sẽ trực tiếp ngỏ lời ☺️",
+
   text5: "không chấp nhận:)",
   text6: "chấp nhận <:333",
   text7: "Thật chứ",
